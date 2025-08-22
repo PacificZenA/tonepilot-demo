@@ -36,7 +36,8 @@ Tone: ${tone}`;
         method: "POST",
         headers: {
           "Content-Type": "application/json",
-          "Authorization": "Bearer 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"
+          //Put your API key in Authorization
+          "Authorization": ""
         },
         body: JSON.stringify({
           model: "openai/gpt-3.5-turbo",
