@@ -1,3 +1,13 @@
+# ⚠️ Project Status / 项目状态
+
+**[Notice | 通知]**  
+I’m currently starting my **Co-op term**, so this project will be **paused temporarily**.  
+Development will resume after my Co-op ends.  
+
+我即将开始 **Co-op 实习**，因此本项目将会 **暂时暂停维护**。  
+等实习结束后会继续更新。感谢理解！
+
+
 # TonePilot Demo · 多语种语气助理（面向说话/语言障碍友好）
 
 > English / 中文双语 README

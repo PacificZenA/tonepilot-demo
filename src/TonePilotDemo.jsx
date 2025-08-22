@@ -36,7 +36,7 @@ Tone: ${tone}`;
         method: "POST",
         headers: {
           "Content-Type": "application/json",
-          //Put your API key in Authorization
+          //There is no key here!
           "Authorization": ""
         },
         body: JSON.stringify({
